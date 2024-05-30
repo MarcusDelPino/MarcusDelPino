@@ -1,7 +1,7 @@
 ![Monty Hall Game](./image/marcuscapa.jpg)
 
 <h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=olá!+👋;+I'm+Marcus!;" />
+<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hello!+👋;+I'm+Marcus!;" />
 </h1>
 
 > Hello! My name is Marcus | Mark | MK and I am Christian and currently in the second year of the Analysis and Systems Development course at DESCOMPLICA college. I am passionate about technology, especially fascinated by the front-end area. I have been tirelessly dedicated to improving my skills and carving out my space in the job market.
